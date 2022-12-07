@@ -1,5 +1,5 @@
 ### Hello there 👋
-My name is Malachi, I'm just your average tech enthusiast. Welcome to the place where you can see my public projects.
+My name is Malachi, just your average tech enthusiast. Welcome to the place where you can see my public projects.
 
 ## Status: Developing NEToolset Framework (v0.3)
 <img src="https://github.com/PlatinumVoyager/NEToolset/blob/main/github.png" height=90% width=90%></img>
