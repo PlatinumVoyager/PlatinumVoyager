@@ -3,4 +3,4 @@ This Github account officially represents the capabilities possessed as an indiv
 
 ## Status: Developing SSDP (Simple Service Discovery Protocol) analyzer/manipulation framework
 
-![](https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/bc3169a2-f04a-49d6-b799-0fdab40e6307)
+![bstar_main](https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/971b2ffb-3031-4809-b682-6d75208248d3)
