@@ -1,4 +1,4 @@
-### You are here, Welcome 👋
+### Welcome visitor,
 This Github account officially represents the capabilities possessed as an individual pursuing more sophisticated methods of obtaining advanced technical literacy in the field of Cybersecurity.
 
 ## Status: Developing SSDP (Simple Service Discovery Protocol) analyzer/manipulation framework
