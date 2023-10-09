@@ -21,4 +21,4 @@ This Github account officially represents the capabilities possessed as an indiv
   * Planning future roadmap for v2.0 feature set.
  
 * Learning **Software Reverse Engineering** with the [Ghidra](https://ghidra-sre.org/) SRE framework.
-  * Interested in building modular plugins in [Python](https://www.python.org/about/).
+  * Interested in building modular plugins with [Python](https://www.python.org/about/).
