@@ -22,3 +22,5 @@ This Github account officially represents the capabilities possessed as an indiv
  
 * Learning **Software Reverse Engineering** with the [Ghidra](https://ghidra-sre.org/) SRE framework.
   * Interested in building modular plugins with [Python](https://www.python.org/about/).
+  * Static binary analysis.
+  * Exploit development and security posture assessments.
