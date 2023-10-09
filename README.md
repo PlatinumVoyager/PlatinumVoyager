@@ -8,3 +8,17 @@ This Github account officially represents the capabilities possessed as an indiv
 
 ![bstar_converge](https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/c5786883-6e0b-47e5-94e8-d892f2166631)
 
+## Currently:
+
+* Learning the [Rust](https://www.rust-lang.org/) programming language.
+  * Planning to create:
+    * Android based administration tool (adb advanced API)
+    * Raw 802.11 a/b/g/n 2.4 GHz wireless deauthentication framework.
+    * Linux agent w/ encrypted socket communications, obfuscation routines at runtime, etc.
+    
+* In singular development of [BrightStar](https://github.com/PlatinumVoyager/BrightStar).
+  * Adding small scale updates on occasion.
+  * Planning future roadmap for v2.0 feature set.
+ 
+* Learning **Software Reverse Engineering** with the [Ghidra](https://ghidra-sre.org/) SRE framework.
+  * Interested in building modular plugins in [Python](https://www.python.org/about/).
