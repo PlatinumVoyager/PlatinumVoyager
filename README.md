@@ -1,7 +1,7 @@
 ### Welcome visitor,
 This Github account officially represents the capabilities possessed as an individual pursuing more sophisticated methods of obtaining advanced technical literacy in the field of Cybersecurity.
 
-* <p>To view the latest current repository under active development click <a href="https://github.com/PlatinumVoyager/BinaryMagic">here</a>.</p>
+* <p>To view the latest current repository under active development click <a href="https://github.com/PlatinumVoyager/BinaryMagic">here (BinaryMagic)</a>.</p>
 
 ## Status: Released the BRIGHTSTAR SSDP framework.
 
