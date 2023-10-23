@@ -3,6 +3,9 @@ This Github account officially represents the capabilities possessed as an indiv
 
 * <p>To view the latest current repository under active development click <a href="https://github.com/PlatinumVoyager/BinaryMagic">here (BinaryMagic)</a>.</p>
 
+<img src="https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/489aa0dd-8657-4541-b5ce-febd7fc4022c" width=620 height=300>
+
+
 ## Status: Released the BRIGHTSTAR SSDP framework.
 
 * <p>To view the current project with a more detailed overview click <a href="https://github.com/PlatinumVoyager/BrightStar">here</a>.</p>
