@@ -1,4 +1,5 @@
 ### Welcome visitor,
+
 This Github account officially represents the capabilities possessed as an individual pursuing more sophisticated methods of obtaining advanced technical literacy in the field of Cybersecurity.
 
 * <p>To view the latest current repository under active development <b>BinaryMagic</b> </p>
@@ -31,3 +32,7 @@ This Github account officially represents the capabilities possessed as an indiv
   * Interested in building modular plugins with [Python](https://www.python.org/about/).
   * Static binary analysis.
   * Exploit development and security posture assessments.
+ 
+ 
+## Cyber Badge
+<img src="https://tryhackme-badges.s3.amazonaws.com/PlatinumVoyager.png" alt="TryHackMe">
