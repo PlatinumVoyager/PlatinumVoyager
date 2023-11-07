@@ -36,3 +36,4 @@ This Github account officially represents the capabilities possessed as an indiv
  
 ## Cyber Badge (TryHackMe)
 <img src="https://tryhackme-badges.s3.amazonaws.com/PlatinumVoyager.png" alt="TryHackMe">
+
