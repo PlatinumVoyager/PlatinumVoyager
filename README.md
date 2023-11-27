@@ -21,6 +21,7 @@ This Github account officially represents the capabilities possessed as an indiv
 </br>
 </br>
 </br>
+<hr>
 
 ### Open Source Status
 ![image](https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/4225f57e-ac53-4d16-a5a1-1934e548d20c)
