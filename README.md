@@ -2,6 +2,11 @@
 
 This Github account officially represents the capabilities possessed as an individual pursuing more sophisticated methods of obtaining advanced technical literacy in the field of Cybersecurity.
 
+## Google Cybersecurity Professional Certified
+![image](https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/4f747f6c-4065-4767-860e-1ef0cf940573)
+
+
+
 * <p>To view the latest current repository under active development <b>HeapWatch</b> </p>
 ![image](https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/4225f57e-ac53-4d16-a5a1-1934e548d20c)
 
