@@ -23,11 +23,9 @@ This Github account officially represents the capabilities possessed as an indiv
 </br>
 
 ### Open Source Status
-
-* <p>To view the latest current repository under active development <b>HeapWatch</b> </p>
 ![image](https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/4225f57e-ac53-4d16-a5a1-1934e548d20c)
 
-
+* <p>To view the latest current repository under active development <b>HeapWatch</b> </p>
 <p>click <a href="https://github.com/PlatinumVoyager/HeapWatch">here</a>.</p>
 
 ## Status: Released the BRIGHTSTAR SSDP framework.
