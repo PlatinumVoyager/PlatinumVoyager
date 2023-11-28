@@ -15,10 +15,6 @@ This Github account officially represents the capabilities possessed as an indiv
 <li>Linux command line (CLI)</li>
 </br>
 </br>
-</br>
-</br>
-</br>
-</br>
 <hr>
 
 ## Status: Released the BRIGHTSTAR SSDP framework.
