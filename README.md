@@ -13,8 +13,9 @@ This Github account officially represents the capabilities possessed as an indiv
 <li>Python for Cybersecurity automation</li>
 <li>Threat modeling/Adversary Emulation</li>
 <li>Linux command line (CLI)</li>
-<h3 text-align="right">About</h3>
-<img src="https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/baf1aaf8-1a76-41b8-8a07-e7243b3e4fb3" align="right" style="width: 55%;">
+<h3 text-align="left">About</h3>
+<img src="https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/baf1aaf8-1a76-41b8-8a07-e7243b3e4fb3" align="left" style="width: 55%;">
+<img src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" align="right">
 </br>
 </br>
 </br>
