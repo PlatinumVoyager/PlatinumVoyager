@@ -19,8 +19,6 @@ This Github account officially represents the capabilities possessed as an indiv
 </br>
 <hr>
 
-</br>
-
 ## Status: Released the BRIGHTSTAR SSDP framework.
 
 * <p>To view the current project with a more detailed overview click <a href="https://github.com/PlatinumVoyager/BrightStar">here</a>.</p>
