@@ -35,9 +35,10 @@ This Github account officially represents the capabilities possessed as an indiv
 * Learning the [Rust](https://www.rust-lang.org/) programming language.
   * Planning to create:
     * Android based administration tool (android debug bridge wrapper in Rust)
-    * Raw 802.11 a/b/g/n 2.4 GHz wireless deauthentication framework (Written in C)
     * Linux agent w/ encrypted socket communications, obfuscation routines at runtime, etc.
-    
+
+* Raw 802.11 a/b/g/n 2.4 GHz wireless deauthentication framework (Written in C)
+
 * In singular development of [BrightStar](https://github.com/PlatinumVoyager/BrightStar).
   * Adding small scale updates on occasion.
   * Planning future roadmap for v2.0 feature set.
