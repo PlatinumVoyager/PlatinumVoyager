@@ -26,12 +26,6 @@ This Github account officially represents the capabilities possessed as an indiv
 
 ![bstar_converge](https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/c5786883-6e0b-47e5-94e8-d892f2166631)
 
-## Currently:
-
-* Developing a modular raw 802.11 frame/packet observation/enumeration and management toolset in C. A preview of the source code can be found in the image below.
-
-![image](https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/cf9db15e-4972-476c-94ee-380c5387c2d3)
-
 * Learning the [Rust](https://www.rust-lang.org/) programming language.
   * Planning to create:
     * Android based administration tool (android debug bridge wrapper in Rust)
