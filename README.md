@@ -19,6 +19,13 @@ This Github account officially represents the capabilities possessed as an indiv
 </br>
 <hr>
 
+</br>
+
+## Information Update: Building a GUI tool for static web development
+![image](https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/0d9b8571-0a4f-4fcd-ae03-6b34a4c014e7)
+
+</br>
+
 ## Status: Released the BRIGHTSTAR SSDP framework.
 
 * <p>To view the current project with a more detailed overview click <a href="https://github.com/PlatinumVoyager/BrightStar">here</a>.</p>
