@@ -22,7 +22,8 @@ This Github account officially represents the capabilities possessed as an indiv
 </br>
 
 ## Information Update: Building a GUI tool for static web development
-![image](https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/0d9b8571-0a4f-4fcd-ae03-6b34a4c014e7)
+![image](https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/4e312e3d-ef03-4420-88ab-737e1ac461d5)
+
 
 </br>
 
