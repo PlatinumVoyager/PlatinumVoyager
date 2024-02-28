@@ -22,7 +22,7 @@ This Github account officially represents the capabilities possessed as an indiv
 </br>
 
 ## Information Update: Building a GUI tool for multi-use HTTP operations
-![image](https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/4e312e3d-ef03-4420-88ab-737e1ac461d5)
+![image](https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/7d8a2960-e792-4d9f-9acf-a66e53e49885)
 
 
 </br>
