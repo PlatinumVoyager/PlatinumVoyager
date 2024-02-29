@@ -15,7 +15,7 @@ This Github account officially represents the capabilities possessed as an indiv
 <li>Linux command line (CLI)</li>
 </br>
 </br>
-<hr>
+
 </br>
 
 ## Information Update: Building a GUI tool for multi-use HTTP operations in C
