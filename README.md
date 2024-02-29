@@ -18,6 +18,7 @@ This Github account officially represents the capabilities possessed as an indiv
 </br>
 
 </br>
+</br>
 
 ## Information Update: Building a GUI tool for multi-use HTTP operations in C
 ![image](https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/7d8a2960-e792-4d9f-9acf-a66e53e49885)
