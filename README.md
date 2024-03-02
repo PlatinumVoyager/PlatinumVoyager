@@ -20,8 +20,10 @@ This Github account officially represents the capabilities possessed as an indiv
 </br>
 </br>
 
-## Information Update: Building a GUI tool for multi-use HTTP operations in C
-![image](https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/7d8a2960-e792-4d9f-9acf-a66e53e49885)
+## Released the QuietWeeping HTTP Server
+![image](https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/4a4178d3-08f6-4d35-a1bb-ea9047eb3fd4)
+
+To get up to date with the latest `Quiet Weeping Server` project click <a href="https://github.com/PlatinumVoyager/QuietWeeper" title="Official QuietWeeper HTTP Server Github repository">here</a>.
 
 </br>
 
