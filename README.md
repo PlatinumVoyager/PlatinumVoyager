@@ -20,14 +20,14 @@ This Github account officially represents the capabilities possessed as an indiv
 </br>
 </br>
 
-## Released the QuietWeeping HTTP Server
+## Released the QuietWeeping HTTP Server (March 2024)
 ![image](https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/4a4178d3-08f6-4d35-a1bb-ea9047eb3fd4)
 
 To get up to date with the latest `Quiet Weeping Server` project click <a href="https://github.com/PlatinumVoyager/QuietWeeper" title="Official QuietWeeper HTTP Server Github repository">here</a>.
 
 </br>
 
-## Status: Released the BRIGHTSTAR SSDP framework.
+## Released the BRIGHTSTAR SSDP framework (October 2023)
 
 * <p>To view the current project with a more detailed overview click <a href="https://github.com/PlatinumVoyager/BrightStar">here</a>.</p>
 * <p>To download the latest v1.0 release (zip archive) you can obtain it from <a href="https://github.com/PlatinumVoyager/BrightStar/releases/tag/v1.0">here</a>.</p>
