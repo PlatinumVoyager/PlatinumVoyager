@@ -34,6 +34,8 @@ To get up to date with the latest `Quiet Weeping Server` project click <a href="
 
 ![bstar_converge](https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/c5786883-6e0b-47e5-94e8-d892f2166631)
 
+## Currently
+
 * Learning the [Rust](https://www.rust-lang.org/) programming language.
   * Planning to create:
     * Android based administration tool (android debug bridge wrapper in Rust)
