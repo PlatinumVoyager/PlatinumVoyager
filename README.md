@@ -1,6 +1,6 @@
 ### Welcome visitor,
 
-This Github account officially represents the capabilities possessed as an individual pursuing more sophisticated methods of obtaining advanced technical literacy in the field of Cybersecurity and Offensive Cyber Operations.
+This Github account officially represents the capabilities possessed as an individual pursuing more sophisticated methods of obtaining advanced technical literacy in the field of Cybersecurity and Offensive Cyberspace Operations.
 
 ## Google Cybersecurity Professional Certification
 <img src="https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/4f747f6c-4065-4767-860e-1ef0cf940573" align="left" style="width: 50%; height: 50%;">
