@@ -13,15 +13,31 @@ This Github account officially represents the capabilities possessed as an indiv
 <li>Python for Cybersecurity automation</li>
 <li>Threat modeling/Adversary Emulation</li>
 <li>Linux command line (CLI)</li>
+
 </br>
 </br>
 </br>
+</br>
+</br>
+
+## Working on Project: OnionBatch (Projected Release April 2024)
+<img src="https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/db5895f2-9441-476f-9634-cb158fc1e2e0" align="left">
+
+<h3>About</h3>
+<p>Written in C++ OnionBatch/BatchOnion is a fast multi-media downloader that egresses network traffic over the TOR network.<p>
+
+<h3>Features</h3>
+<li>SOCKS5/SOCKS4 Proxy support.</li>
+<li>Network egress via the <a href="https://www.torproject.org/">TOR</a> anonimyzing relay network.</li>
+<li>Concurrent download initialization methods.</li>
+<li>Stable libcurl based backend for handling requests, etc.</li>
+<li>More features in development.</li>
 
 </br>
 </br>
 
 ## Released the QuietWeeping HTTP Server (March 2024)
-![image](https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/4a4178d3-08f6-4d35-a1bb-ea9047eb3fd4)
+<img src="https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/4a4178d3-08f6-4d35-a1bb-ea9047eb3fd4">
 
 * To get up-to date with the latest `Quiet Weeping Server` project click <a href="https://github.com/PlatinumVoyager/QuietWeeper" title="Official QuietWeeper HTTP Server Github repository">here</a>.
 * To download the latest release (v1.2.2) with the associated source code and pre-built binary executable click <a href="https://github.com/PlatinumVoyager/QuietWeeper/releases/tag/v1.2.2" title="Official QuietWeeper v1.2.2 release">here</a>.
