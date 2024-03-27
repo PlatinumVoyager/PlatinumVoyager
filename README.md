@@ -22,7 +22,7 @@ This Github account officially represents the capabilities possessed as an indiv
 <img src="https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/db5895f2-9441-476f-9634-cb158fc1e2e0" align="left">
 
 <h3>About</h3>
-<p>Written in C++ OnionBatch/BatchOnion is a fast multi-media downloader that egresses network traffic over the TOR network.<p>
+<p>Written in C++ OnionBatch/BatchOnion loader is a fast multi-media downloader that egresses network traffic over the TOR network.<p>
 
 <h3>Features</h3>
 <li>SOCKS5/SOCKS4 Proxy support.</li>
