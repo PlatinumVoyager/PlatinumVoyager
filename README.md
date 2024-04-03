@@ -34,6 +34,12 @@ This Github account officially represents the capabilities possessed as an indiv
 </br>
 </br>
 
+### Development Update: OnionBatch GUI
+<img src="https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/a824baa2-1153-422b-aded-c9549850e97b">
+
+</br>
+</br>
+
 ## Released the QuietWeeping HTTP Server (March 2024)
 <img src="https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/4a4178d3-08f6-4d35-a1bb-ea9047eb3fd4">
 
