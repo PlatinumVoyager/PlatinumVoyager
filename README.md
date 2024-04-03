@@ -29,7 +29,7 @@ This Github account officially represents the capabilities possessed as an indiv
 <li>Network egress via the <a href="https://www.torproject.org/">TOR</a> anonimyzing relay network.</li>
 <li>Concurrent download initialization methods.</li>
 <li>Stable libcurl based backend for handling requests, etc.</li>
-<li>More features in development.</li>
+<li>Fast and efficient user-based graphical interface</li>
 
 </br>
 </br>
