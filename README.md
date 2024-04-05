@@ -38,14 +38,11 @@ This Github account officially represents the capabilities possessed as an indiv
 <li>Fast and efficient user-based graphical interface</li>
 
 </br>
-</br>
-</br>
 
 ### Development Update: OnionBatch GUI
 ![image](https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/5ccbb6f2-d60b-4c7e-b05b-5edb78150336)
 
-</br>
-</br>
+<hr>
 
 ## Released the QuietWeeping HTTP Server (March 2024)
 <img src="https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/4a4178d3-08f6-4d35-a1bb-ea9047eb3fd4">
@@ -55,12 +52,16 @@ This Github account officially represents the capabilities possessed as an indiv
 
 </br>
 
+<hr>
+
 ## Released the BRIGHTSTAR SSDP framework (October 2023)
 
 * <p>To view the current project with a more detailed overview click <a href="https://github.com/PlatinumVoyager/BrightStar">here</a>.</p>
 * <p>To download the latest v1.0 release (zip archive) you can obtain it from <a href="https://github.com/PlatinumVoyager/BrightStar/releases/tag/v1.0">here</a>.</p>
 
 ![bstar_converge](https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/c5786883-6e0b-47e5-94e8-d892f2166631)
+
+<hr>
 
 ## Currently
 
