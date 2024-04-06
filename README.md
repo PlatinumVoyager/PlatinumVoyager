@@ -2,27 +2,8 @@
 
 This Github account officially represents the capabilities possessed as an individual pursuing more sophisticated methods of obtaining advanced technical literacy in the field of Cybersecurity and Offensive Cyberspace Operations.
 
-</br>
-
-## Google Cybersecurity Professional Certification
-<img src="https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/4f747f6c-4065-4767-860e-1ef0cf940573" align="left" style="width: 50%; height: 50%;">
-<h3>Skills</h3> 
-<li>Threats, risks and vulnerabilities</li>
-<li>Incident Response (IR)</li>
-<li>Security frameworks and controls (NIST, CSF)</li>
-<li>Security Hardening (CIA, AAA)</li>
-<li>SIEM tools (Splunk, Chronicle, Suricata)</li>
-<li>Python for Cybersecurity automation</li>
-<li>Threat modeling/Adversary Emulation</li>
-<li>Linux command line (CLI)</li>
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 <hr>
+</br>
 
 ## Working on Project: OnionBatch (Projected Release April 2024)
 <img src="https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/db5895f2-9441-476f-9634-cb158fc1e2e0" align="left">
