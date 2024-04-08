@@ -23,9 +23,11 @@ This Github account officially represents the capabilities possessed as an indiv
 </br>
 
 ## Development Update: OnionBatch GUI
-![image](https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/a67f411e-d0de-42c3-9013-c8b6a4974629)
+![image](https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/51ffa2bf-245a-4562-909f-02bccc122944)
+
 </br>
-![image](https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/4655ff9e-8b67-4d0f-ba6a-4c71db136c15)
+![image](https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/dd7a6da7-a3a8-4f51-9a39-8710bef2d858)
+
 
 <hr>
 
