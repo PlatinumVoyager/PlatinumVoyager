@@ -27,7 +27,7 @@ This Github account officially represents the capabilities possessed as an indiv
 
 </br>
 
-<img src="https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/392f1730-c744-4e7a-aa22-6a2000adc57c" style="width: 80%; height: 80%;"></img>
+<img src="https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/df2d1539-8cfb-4739-af8c-af3e997f7844" style="width: 80%; height: 80%;"></img>
 
 
 <hr>
