@@ -1,3 +1,5 @@
+*"Be strong and courageous. Do not be afraid or terrified because of them, for the Lord your God goes with you; **he will never leave you nor forsake you.**"* - Deuteronomy 31:6
+
 ### Welcome visitor,
 
 This Github account officially represents the capabilities possessed as an individual pursuing more sophisticated methods of obtaining advanced technical literacy in the field of Cybersecurity and Offensive Cyberspace Operations.
