@@ -17,6 +17,7 @@ This Github account officially represents the capabilities possessed as an indiv
       alloted address space contiguously, and the other half being stored before it is processed.
       
         * Can such information from the other half of the double buffer not in use be "readily" sent, stored, and updated as to appear to be peering into the future before it is sent to the main display?
+          
           * Whilst obtaining information regarding the GPU's current display modes via FB (frame buffer) interrogation, taking a closer look at the refresh rate, could this value be modified to lower the current refresh cycle further to increase the speed in which the frames are read by the operator before being sent to the main display driver?
 
 **<ins>Easy Explantion:<ins>** It should be possible to capture bitmap scalar data frames (think about a single picture of your screen) before they are sent to the main display (monitor, TV, etc) in such a way that the screen refresh rate (think FPS) is incrementally lowered (would need to compensate for avg CPU load) over a set period to "allow" time to utilize the CPU without affecting the end-users reactionary gap (the time between noticing discrepancies within their environment) to stay undetected.
