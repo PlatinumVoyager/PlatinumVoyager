@@ -7,30 +7,18 @@ This Github account officially represents the capabilities possessed as an indiv
 <hr>
 </br>
 
-## Currently: Modifying all static website content for future updates
-<img src="https://github.com/user-attachments/assets/bf25e1b9-ecc7-45a6-bf6d-5e5bcadadd62" style="width: 60%; height: 60%;" align="left">
-<li>Adjusting HTML based listings</li>
-<li>Re-aligning page frame borders</li>
-<li>Improving internal JavaScript to fix background binary text transitions</li>
-<li>Reevaluating "work-in-progress" Projects source</li>
-<li>Minor changes to every source file</li>
+<img src="https://github.com/user-attachments/assets/711ea7bb-f383-4e42-a35a-76f488d2c931">
+
+## Currently: Modifying ALL static website content for future updates
+
+<li>Re-aligning page frame borders to force a more reliable/readable content fixture.</li>
+<li>Improving internal JavaScript to fix background binary text transitions.</li>
+<li>Reevaluating "work-in-progress" Projects source files.</li>
+<li>Minor changes to every source file under the current local server directory structure.</li>
+<li>Adding inbuilt OOB (Out of Bounds) corrupted stack frame relay proxy execution browser exploit to capture/modify site wide visitor data. It's just a joke, relax :)</li>
 
 [comment]: # (Ridiculous how these comments are to be approached as well as the # of br's brrrrrrrr)
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 </br>
 </br>
 </br>
@@ -46,7 +34,7 @@ This Github account officially represents the capabilities possessed as an indiv
 <li>Network egress via the <a href="https://www.torproject.org/">TOR</a> anonimyzing relay network.</li>
 <li>Concurrent download initialization methods.</li>
 <li>Stable libcurl based backend for handling requests, etc.</li>
-<li>Fast and efficient user-based graphical interface</li>
+<li>Fast and efficient user-based graphical interface.</li>
 
 </br>
 </br>
