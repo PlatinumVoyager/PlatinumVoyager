@@ -15,6 +15,7 @@ This Github account officially represents the capabilities possessed as an indiv
   * May consider implementing a *Bitwise XOR Copy* style algorithm for capturing specific regions of the screen (i.e - targeting/reading different areas of memory) more efficiently.
     * Especially if such areas of memory are within a double buffer/page flipped memory region in which the frame buffer has enough memory (virtual) to store the current bitmap within half of its
       alloted address space contiguously, and the other half being stored before it is processed.
+      
         * Can such information from the other half of the double buffer not in use be "readily" sent, stored, and updated as to appear to be peering into the future before it is sent to the main display?
           * Whilst obtaining information regarding the GPU's current display modes via FB (frame buffer) interrogation, taking a closer look at the refresh rate, could this value be modified to lower the current refresh cycle further to increase the speed in which the frames are read by the operator before being sent to the main display driver?
 
