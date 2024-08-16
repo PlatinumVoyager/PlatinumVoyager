@@ -5,7 +5,6 @@
 This Github account officially represents the capabilities possessed as an individual pursuing more sophisticated methods of obtaining advanced technical literacy in the field of Cybersecurity and Offensive Cyberspace Operations.
 
 <hr>
-</br>
 
 ## Mind Detour: Current thought for a future project (one of multitudes)
 
