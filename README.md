@@ -20,6 +20,8 @@ This Github account officially represents the capabilities possessed as an indiv
 
 Easy explantion: It should be possible to capture bitmap scalar data frames (think about a single picture of your screen) before they are sent to the main display (monitor, TV, etc) in such a way that the screen refresh rate (think FPS) is incrementally lowered (would need to compensate for avg CPU load) over a set period to "allow" time to utilize the CPU without affecting the end-users reactionary gap (the time between noticing discrepancies within their environment) to stay undetected.
 
+***NOTE:** Skeleton C source files have been developed, thus it seems such a process is indeed possible. Time and true low level understanding/techniques will consume a considerable amount of time.*
+
 <hr>
 
 <img src="https://github.com/user-attachments/assets/711ea7bb-f383-4e42-a35a-76f488d2c931">
