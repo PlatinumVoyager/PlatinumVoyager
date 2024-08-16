@@ -22,6 +22,8 @@ Easy explantion: It should be possible to capture bitmap scalar data frames (thi
 
 ***NOTE:** Skeleton C source files have been developed, thus it seems such a process is indeed possible. Time and true low level understanding/techniques will consume a considerable amount of time.*
 
+<img src="https://github.com/user-attachments/assets/a0689f2d-eec1-4d73-aca7-3841dc417f7f" style="width: 80%; height: 80%">
+
 <hr>
 
 <img src="https://github.com/user-attachments/assets/711ea7bb-f383-4e42-a35a-76f488d2c931">
