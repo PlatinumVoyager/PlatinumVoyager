@@ -12,7 +12,7 @@ This Github account officially represents the capabilities possessed as an indiv
 * An "in-memory" DRM (Direct Rendering Manager) bitmap framebuffer control tool for low level screen capture functionality.</li>
   * Could utilize extensions for X11 to target the display server or a custom/modified video compositor for subsequent success in further operations.
   * Taking information stored about each frame buffer (/dev/dri/card0, etc) and using it to further establish acceptable forms of operations.
-  
+
   * May consider implementing a *Bitwise XOR Copy* style algorithm for capturing specific regions of the screen (i.e - targeting/reading different areas of memory) more efficiently.
     * Especially if such areas of memory are within a double buffer/page flipped memory region in which the frame buffer has enough memory (virtual) to store the current bitmap within half of its
       alloted address space contiguously, and the other half being stored before it is processed.
