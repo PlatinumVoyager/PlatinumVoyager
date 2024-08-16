@@ -40,7 +40,6 @@ Easy explantion: It should be possible to capture bitmap scalar data frames (thi
 
 </br>
 </br>
-</br>
 
 ## Working on Project: OnionBatch
 <img src="https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/db5895f2-9441-476f-9634-cb158fc1e2e0" align="left">
@@ -57,13 +56,11 @@ Easy explantion: It should be possible to capture bitmap scalar data frames (thi
 
 </br>
 </br>
-</br>
 
 ## Development Update: OnionBatch GUI
 <img src="https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/17b1a549-12db-4e05-8079-d2ecdf1ba3dc" style="width: 80%; height: 80%;"></img>
 
 </br>
-
 <img src="https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/df2d1539-8cfb-4739-af8c-af3e997f7844" style="width: 80%; height: 80%;"></img>
 
 
