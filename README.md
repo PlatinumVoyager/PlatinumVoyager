@@ -12,7 +12,7 @@ This Github account officially represents the capabilities possessed as an indiv
 <li>Adjusting HTML based listings</li>
 <li>Re-aligning page frame borders</li>
 <li>Improving internal JavaScript to fix background binary text transitions</li>
-<li>Revaluating "work-in-progress" Projects source</li>
+<li>Reevaluating "work-in-progress" Projects source</li>
 <li>Minor changes to every source file</li>
 
 [comment]: # (Ridiculous how these comments are to be approached as well as the # of br's brrrrrrrr)
