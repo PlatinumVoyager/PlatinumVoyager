@@ -7,6 +7,34 @@ This Github account officially represents the capabilities possessed as an indiv
 <hr>
 </br>
 
+## Currently: Modifying all static website content for future updates
+<img src="https://github.com/user-attachments/assets/bf25e1b9-ecc7-45a6-bf6d-5e5bcadadd62" style="width: 60%; height: 60%;" align="left">
+<li>Adjusting HTML based listings</li>
+<li>Re-aligning page frame borders</li>
+<li>Improving internal JavaScript to fix background binary text transitions</li>
+<li>Revaluating "work-in-progress" Projects source</li>
+<li>Minor changes to every source file</li>
+
+[comment]: # (Ridiculous how these comments are to be approached as well as the # of br's brrrrrrrr)
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 ## Working on Project: OnionBatch
 <img src="https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/db5895f2-9441-476f-9634-cb158fc1e2e0" align="left">
 
