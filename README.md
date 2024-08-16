@@ -1,6 +1,6 @@
 *"Be strong and courageous. Do not be afraid or terrified because of them, for the Lord your God goes with you; **he will never leave you nor forsake you.**"* - Deuteronomy 31:6
 
-### Welcome visitor,
+# Welcome visitor,
 
 This Github account officially represents the capabilities possessed as an individual pursuing more sophisticated methods of obtaining advanced technical literacy in the field of Cybersecurity and Offensive Cyberspace Operations.
 
@@ -69,7 +69,7 @@ This Github account officially represents the capabilities possessed as an indiv
 <hr>
 </br>
 
-## Released the QuietWeeping HTTP Server (March 2024)
+### Released the QuietWeeping HTTP Server (March 2024)
 <!-- <img src="https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/4a4178d3-08f6-4d35-a1bb-ea9047eb3fd4"> -->
 
 <img src="https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/a44f574c-35ae-450c-9708-2fe09e5892da" align="left">
