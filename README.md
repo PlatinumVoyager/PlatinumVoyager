@@ -18,9 +18,9 @@ This Github account officially represents the capabilities possessed as an indiv
         * Can such information from the other half of the double buffer not in use be "readily" sent, stored, and updated as to appear to be peering into the future before it is sent to the main display?
           * Whilst obtaining information regarding the GPU's current display modes via FB (frame buffer) interrogation, taking a closer look at the refresh rate, could this value be modified to lower the current refresh cycle further to increase the speed in which the frames are read by the operator before being sent to the main display driver?
 
-Easy explantion: It should be possible to capture bitmap scalar data frames (think about a single picture of your screen) before they are sent to the main display (monitor, TV, etc) in such a way that the screen refresh rate (think FPS) is incrementally lowered (would need to compensate for avg CPU load) over a set period to "allow" time to utilize the CPU without affecting the end-users reactionary gap (the time between noticing discrepancies within their environment) to stay undetected.
+**<ins>Easy Explantion:<ins>** It should be possible to capture bitmap scalar data frames (think about a single picture of your screen) before they are sent to the main display (monitor, TV, etc) in such a way that the screen refresh rate (think FPS) is incrementally lowered (would need to compensate for avg CPU load) over a set period to "allow" time to utilize the CPU without affecting the end-users reactionary gap (the time between noticing discrepancies within their environment) to stay undetected.
 
-***NOTE:** Skeleton C source files have been developed, thus it seems such a process is indeed possible. Time and true low level understanding/techniques will consume a considerable amount of time.*
+***<ins>NOTE<ins>:** Skeleton C source files have been developed, thus it seems such a process is indeed possible. Time and true low level understanding/techniques will consume a considerable amount of time.*
 
 <img src="https://github.com/user-attachments/assets/a0689f2d-eec1-4d73-aca7-3841dc417f7f" style="width: 80%; height: 80%">
 
