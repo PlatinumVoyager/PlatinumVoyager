@@ -1,4 +1,4 @@
-*"Be strong and courageous. Do not be afraid or terrified because of them, for the Lord your God goes with you; **he will never leave you nor forsake you.**"* - Deuteronomy 31:6
+*"Be strong and courageous. Do not be afraid or terrified because of them, for the LORD your God goes with you; **he will never leave you nor forsake you.**"* - Deuteronomy 31:6
 
 # Welcome visitor,
 
