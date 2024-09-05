@@ -6,28 +6,6 @@ This Github account officially represents the capabilities possessed as an indiv
 
 <hr>
 
-## Mind Detour: Current thought for a future project (one of multitudes)
-
-* An "in-memory" DRM (Direct Rendering Manager) bitmap framebuffer control tool for low level screen capture functionality.</li>
-  * Could utilize extensions for X11 to target the display server or a custom/modified video compositor for subsequent success in further operations.
-  * Taking information stored about each frame buffer (/dev/dri/card0, etc) and using it to further establish acceptable forms of operations.
-
-  * May consider implementing a *Bitwise XOR Copy* style algorithm for capturing specific regions of the screen (i.e - targeting/reading different areas of memory) more efficiently.
-    * Especially if such areas of memory are within a double buffer/page flipped memory region in which the frame buffer has enough memory (virtual) to store the current bitmap within half of its
-      alloted address space contiguously, and the other half being stored before it is processed.
-      
-        * Can such information from the other half of the double buffer not in use be "readily" sent, stored, and updated as to appear to be peering into the future before it is sent to the main display?
-          
-          * Whilst obtaining information regarding the GPU's current display modes via FB (frame buffer) interrogation, taking a closer look at the refresh rate, could this value be modified to lower the current refresh cycle further to increase the speed in which the frames are read by the operator before being sent to the main display driver?
-
-**<ins>Easy Explantion:<ins>** It should be possible to capture bitmap scalar data frames (think about a single picture of your screen) before they are sent to the main display (monitor, TV, etc) in such a way that the screen refresh rate (think FPS) is incrementally lowered (would need to compensate for avg CPU load) over a set period to "allow" time to utilize the CPU without affecting the end-users reactionary gap (the time between noticing discrepancies within their environment) to stay undetected.
-
-***<ins>NOTE<ins>:** Skeleton C source files have been developed, thus it seems such a process is indeed possible. Time and true low level understanding/techniques will consume a considerable amount of time.*
-
-<img src="https://github.com/user-attachments/assets/a0689f2d-eec1-4d73-aca7-3841dc417f7f" style="width: 80%; height: 80%">
-
-<hr>
-
 <img src="https://github.com/user-attachments/assets/711ea7bb-f383-4e42-a35a-76f488d2c931">
 
 ## Currently: Modifying ALL static website content for future updates
