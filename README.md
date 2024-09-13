@@ -6,9 +6,15 @@ This Github account officially represents the capabilities possessed as an indiv
 
 <hr>
 
-<img src="https://github.com/user-attachments/assets/711ea7bb-f383-4e42-a35a-76f488d2c931">
 
-## Currently: Modifying ALL static website content for future updates
+## Currently: Playing picoCTF (Basic Binary Exploitation)
+<img src="https://github.com/user-attachments/assets/74b03be0-c007-4953-837b-81c37d07e4de">
+
+
+
+## TODO: Modify ALL static website content for future updates
+
+<img src="https://github.com/user-attachments/assets/711ea7bb-f383-4e42-a35a-76f488d2c931">
 
 <li>Re-aligning page frame borders to force a more reliable/readable content fixture.</li>
 <li>Improving internal JavaScript to fix background binary text transitions.</li>
