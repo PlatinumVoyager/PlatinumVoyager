@@ -97,9 +97,3 @@ This Github account officially represents the capabilities possessed as an indiv
   * Interested in building modular plugins with Python [(]()[Jython](https://www.jython.org/)[)]().
   * Static binary analysis.
   * Exploit development and security posture assessments.
- 
-* Developing a DLL injection framework on Windows for process interaction and manipulation.
-  * Systematically identify vulnerable applications which allow the availability of non-privileged DLL hooking/injection, etc.
-  * Target specific applications or a subset of specific applications to test against.
-  * Future: Encrypted DLL loader (Encrypt target DLL files while in memory until they need to be decrypted for runtime execution)
-
