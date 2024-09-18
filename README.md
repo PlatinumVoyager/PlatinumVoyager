@@ -116,4 +116,4 @@ This Github account officially represents the capabilities possessed as an indiv
 
 ![Snake animation](https://github.com/PlatinumVoyager/PlatinumVoyager/blob/output/github-contribution-grid-snake.svg)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&animation=twinkling&textBg=false&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&animation=twinkling&textBg=false&section=footer&strokeWidth=30)
