@@ -1,8 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=PlatinumVoyager&animation=twinkling)
 
 
-*"Be strong and courageous. Do not be afraid or terrified because of them, for the LORD your God goes with you; **he will never leave you nor forsake you.**"* - Deuteronomy 31:6
+<div style="align: left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="80px" width="80px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="80px" width="80px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="80px" width="80px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="80px" width="80px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="80px" width="80px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" height="80px" width="80px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" height="80px" width="80px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="80px" width="80px"/>
+</div>
+<h1></h1> <!-- Empty on purpose -->
 
+<p align="left">"Be strong and courageous. Do not be afraid or terrified because of them, for the <b>LORD</b> your God goes with you; he will <i>never</i> leave you nor forsake you." - Deuteronomy 31:6</p>
+ 
 # Welcome visitor,
 
 This Github account officially represents the capabilities possessed as an individual pursuing more sophisticated methods of obtaining advanced technical literacy in the field of Cybersecurity and Offensive Cyberspace Operations.
