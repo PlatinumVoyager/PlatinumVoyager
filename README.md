@@ -11,6 +11,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" height="80px" width="80px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="80px" width="80px"/>
 </div>
+
 <h1></h1> <!-- Empty on purpose -->
 
 <p align="left">"Be strong and courageous. Do not be afraid or terrified because of them, for the <b>LORD</b> your God goes with you; he will <i>never</i> leave you nor forsake you." - Deuteronomy 31:6</p>
