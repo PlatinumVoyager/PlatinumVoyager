@@ -11,7 +11,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="70px" width="70px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" height="70px" width="70px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" height="70px" width="70px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="70px" width="870px"/>
+    <h4><i>Technology Stack Experience</i></h4>
 </div>
 <hr>
 <p align="left">"Be strong and courageous. Do not be afraid or terrified because of them, for the <b>LORD</b> your God goes with you; he will <i>never</i> leave you nor forsake you." - Deuteronomy 31:6</p>
