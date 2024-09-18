@@ -113,3 +113,6 @@ This Github account officially represents the capabilities possessed as an indiv
   * Interested in building modular plugins with Python [(]()[Jython](https://www.jython.org/)[)]().
   * Static binary analysis.
   * Exploit development and security posture assessments.
+ 
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
