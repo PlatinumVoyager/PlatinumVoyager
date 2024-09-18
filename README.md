@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=PlatinumVoyager&animation=twinkling)
+
+
 *"Be strong and courageous. Do not be afraid or terrified because of them, for the LORD your God goes with you; **he will never leave you nor forsake you.**"* - Deuteronomy 31:6
 
 # Welcome visitor,
