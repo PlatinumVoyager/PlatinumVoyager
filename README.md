@@ -112,7 +112,7 @@ This Github account officially represents the capabilities possessed as an indiv
   * Static binary analysis.
   * Exploit development and security posture assessments.
 
-## Github History: Snake Game
+## Snake eats Github Contribution Activity
 
 ![Snake animation](https://github.com/PlatinumVoyager/PlatinumVoyager/blob/output/github-contribution-grid-snake.svg)
 
