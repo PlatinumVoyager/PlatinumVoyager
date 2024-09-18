@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=PlatinumVoyager&animation=twinkling)
 
-
 <div style="align: left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="80px" width="80px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="80px" width="80px"/>
