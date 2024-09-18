@@ -7,7 +7,7 @@ This Github account officially represents the capabilities possessed as an indiv
 <hr>
 
 
-## Currently: Playing picoCTF (Basic Binary Exploitation)
+## Currently: Playing picoCTF (Binary Exploitation)
 <img src="https://github.com/user-attachments/assets/74b03be0-c007-4953-837b-81c37d07e4de">
 
 
