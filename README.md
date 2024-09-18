@@ -117,6 +117,8 @@ This Github account officially represents the capabilities possessed as an indiv
 
 ![Snake animation](https://github.com/PlatinumVoyager/PlatinumVoyager/blob/output/github-contribution-grid-snake.svg)
 
-*"Mess with the best, die like the rest."*
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00F70E&background=000000&width=435&lines=%22Mess+with+the+best%2C+die+like+the+rest.%22" alt="Typing SVG" /></a>
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&animation=twinkling&textBg=false&section=footer&strokeWidth=30)
