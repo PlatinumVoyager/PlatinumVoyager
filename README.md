@@ -4,6 +4,10 @@
 </div>
 
 <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=PlatinumVoyager"/>
+</div>
+
+<div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="70px" width="70px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="80px" width="70px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="70px" width="70px"/>
