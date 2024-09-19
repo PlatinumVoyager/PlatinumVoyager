@@ -5,6 +5,7 @@
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=PlatinumVoyager"/>
+    <p></p>
 </div>
 
 <div align="center">
