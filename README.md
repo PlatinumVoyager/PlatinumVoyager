@@ -20,7 +20,7 @@
 <hr>
 <p align="left">"Be strong and courageous. Do not be afraid or terrified because of them, for the <b>LORD</b> your God goes with you; he will <i>never</i> leave you nor forsake you." - Deuteronomy 31:6</p>
  
-# Welcome visitor <img src="https://github.com/user-attachments/assets/4bcaf57e-b71a-4ede-bfc1-4eef610dadc2" height="70px" width="70px">
+# Welcome visitor <img src="https://github.com/user-attachments/assets/4bcaf57e-b71a-4ede-bfc1-4eef610dadc2" height="55px" width="55px">
 
 
 
