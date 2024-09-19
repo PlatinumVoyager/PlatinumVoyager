@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=PlatinumVoyager&style=plastic"/>
+    <img src="https://komarev.com/ghpvc/?username=PlatinumVoyager&label=Profile+Views&style=for-the-badge&abbreviated=true"/>
     <p></p>
 </div>
 
