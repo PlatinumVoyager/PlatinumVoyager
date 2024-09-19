@@ -20,7 +20,8 @@
 <hr>
 <p align="left">"Be strong and courageous. Do not be afraid or terrified because of them, for the <b>LORD</b> your God goes with you; he will <i>never</i> leave you nor forsake you." - Deuteronomy 31:6</p>
  
-# Welcome visitor <img src="https://github.com/user-attachments/assets/c6ee4d1e-1809-46af-8f33-96eb2b732f24" width="3%" height="3%"/>
+# Welcome visitor <img src="https://github.com/user-attachments/assets/4bcaf57e-b71a-4ede-bfc1-4eef610dadc2" height="70px" width="70px">
+
 
 
 This Github account officially represents the capabilities possessed as an individual pursuing more sophisticated methods of obtaining advanced technical literacy in the field of Cybersecurity and Offensive Cyberspace Operations.
