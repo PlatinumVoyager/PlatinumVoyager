@@ -1,10 +1,9 @@
-
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=PlatinumVoyager&animation=twinkling"/>
 </div>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=PlatinumVoyager&label=Profile+Views&style=for-the-badge&abbreviated=true"/>
+    <img src="https://komarev.com/ghpvc/?username=PlatinumVoyager&label=PROFILE+VIEWS&style=flat-square&abbreviated=true" alt="hello"/>
     <p></p>
 </div>
 
