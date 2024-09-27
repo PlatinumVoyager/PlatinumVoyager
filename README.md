@@ -37,8 +37,8 @@ This Github account officially represents the capabilities possessed as an indiv
     <img src="https://github.com/user-attachments/assets/4c54b837-a269-4d17-ad54-44ddb2562296">
 </div>
 
-## Currently: Playing picoCTF (Binary Exploitation)
-<img src="https://github.com/user-attachments/assets/74b03be0-c007-4953-837b-81c37d07e4de">
+## Currently: Writing a Technical Guide
+<img src="https://github.com/user-attachments/assets/d8a6388e-0051-405f-ac92-57288fc9034d">
 
 
 
