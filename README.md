@@ -26,17 +26,6 @@
 
 This Github account officially represents the capabilities possessed as an individual pursuing more sophisticated methods of obtaining advanced technical literacy in the field of Cybersecurity and Offensive Cyberspace Operations.
 
-<div align="center">
-    <h4><i>Older advanced/technical project source files have been released below:</i></h4>
-</div>
-
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/1e99b2d8-2179-430e-95eb-e7c8a9d063a2">
-    <img src="https://github.com/user-attachments/assets/c840752e-6c3f-4ef2-918b-665e6d35ef99">
-    <img src="https://github.com/user-attachments/assets/6baad9ab-f90b-4659-bc5f-01c0d597b919">
-    <img src="https://github.com/user-attachments/assets/4c54b837-a269-4d17-ad54-44ddb2562296">
-</div>
-
 ## Currently: Writing a Technical Guide
 <img src="https://github.com/user-attachments/assets/d8a6388e-0051-405f-ac92-57288fc9034d">
 
