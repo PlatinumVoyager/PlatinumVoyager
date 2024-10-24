@@ -22,55 +22,9 @@
  
 # Welcome visitor <img src="https://github.com/user-attachments/assets/4bcaf57e-b71a-4ede-bfc1-4eef610dadc2" height="55px" width="55px">
 
-
-
 This Github account officially represents the capabilities possessed as an individual pursuing more sophisticated methods of obtaining advanced technical literacy in the field of Cybersecurity and Offensive Cyberspace Operations.
 
-## Currently: Writing a Technical Guide
-<img src="https://github.com/user-attachments/assets/d8a6388e-0051-405f-ac92-57288fc9034d">
-
-
-
-## TODO: Modify ALL static website content for future updates
-
-<img src="https://github.com/user-attachments/assets/711ea7bb-f383-4e42-a35a-76f488d2c931">
-
-<li>Re-aligning page frame borders to force a more reliable/readable content fixture.</li>
-<li>Improving internal JavaScript to fix background binary text transitions.</li>
-<li>Reevaluating "work-in-progress" Projects source files.</li>
-<li>Minor changes to every source file under the current local server directory structure.</li>
-<li>Adding inbuilt OOB (Out of Bounds) corrupted stack frame relay proxy execution browser exploit to capture/modify site wide visitor data. It's just a joke, relax :)</li>
-
-[comment]: # (Ridiculous how these comments are to be approached as well as the # of br's brrrrrrrr)
-
-</br>
-</br>
-
-## Working on Project: OnionBatch (*TBD*)
-<img src="https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/db5895f2-9441-476f-9634-cb158fc1e2e0" align="left">
-
-<h3>About</h3>
-<p>Written in C++ OnionBatch/BatchOnion loader is a fast multi-media downloader that egresses outbound traffic through the TOR network.<p>
-
-<h3>Features</h3>
-<li>SOCKS5/SOCKS4 Proxy support.</li>
-<li>Network egress via the <a href="https://www.torproject.org/">TOR</a> anonimyzing relay network.</li>
-<li>Concurrent download initialization methods.</li>
-<li>Stable libcurl based backend for handling requests, etc.</li>
-<li>Fast and efficient user-based graphical interface.</li>
-
-</br>
-</br>
-
-## Development Update: OnionBatch GUI
-<img src="https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/17b1a549-12db-4e05-8079-d2ecdf1ba3dc" style="width: 80%; height: 80%;"></img>
-
-</br>
-<img src="https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/df2d1539-8cfb-4739-af8c-af3e997f7844" style="width: 80%; height: 80%;"></img>
-
-
-<hr>
-</br>
+<br>
 
 ## Released the QuietWeeping HTTP Server (March 2024)
 <!-- <img src="https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/4a4178d3-08f6-4d35-a1bb-ea9047eb3fd4"> -->
