@@ -26,6 +26,11 @@ This Github account officially represents the capabilities possessed as an indiv
 
 <br>
 
+## Current Project: SPYGAZER
+![image](https://github.com/user-attachments/assets/0a90aaa0-d029-4930-b713-fd898c5c79a5)
+
+<br>
+
 ## Released the QuietWeeping HTTP Server (March 2024)
 <!-- <img src="https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/4a4178d3-08f6-4d35-a1bb-ea9047eb3fd4"> -->
 
