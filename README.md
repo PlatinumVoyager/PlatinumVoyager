@@ -26,7 +26,7 @@ This Github account officially represents the capabilities possessed as an indiv
 
 <br>
 
-## Current Project: SPYGAZER
+## Current Project: [SPYGAZER](https://github.com/PlatinumVoyager/SpyGazer)
 ![image](https://github.com/user-attachments/assets/0a90aaa0-d029-4930-b713-fd898c5c79a5)
 
 <br>
