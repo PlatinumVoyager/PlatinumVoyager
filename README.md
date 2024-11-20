@@ -32,11 +32,8 @@ This Github account officially represents the capabilities possessed as an indiv
 <br>
 
 ## Released the QuietWeeping HTTP Server (March 2024)
-<!-- <img src="https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/4a4178d3-08f6-4d35-a1bb-ea9047eb3fd4"> -->
 
 <img src="https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/a44f574c-35ae-450c-9708-2fe09e5892da" align="left">
-
-<!-- HELLO THERE ;) <img src="https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/4a4178d3-08f6-4d35-a1bb-ea9047eb3fd4" align="right"> -->
 
 </br>
 
