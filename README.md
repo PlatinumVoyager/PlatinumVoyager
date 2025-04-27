@@ -39,7 +39,7 @@ This Github account officially represents the capabilities possessed as an indiv
 * To get up-to date with the latest `Quiet Weeping Server` project click <a href="https://github.com/PlatinumVoyager/QuietWeeper" title="Official QuietWeeper HTTP Server Github repository">here</a>.
 * To download the latest release (v1.2.2) with the associated source code and pre-built binary executable click <a href="https://github.com/PlatinumVoyager/QuietWeeper/releases/tag/v1.2.2" title="Official QuietWeeper v1.2.2 release">here</a>.
 
-<br><br><br>
+<br><br><br><br><br>
 
 ## Released the BRIGHTSTAR SSDP framework (October 2023)
 
