@@ -52,16 +52,8 @@ This Github account officially represents the capabilities possessed as an indiv
 
 ## Currently
 
-* Learning the [Rust](https://www.rust-lang.org/) programming language.
-  * Planning to create:
-    * Android based administration tool (android debug bridge wrapper in Rust)
-    * Linux agent w/ encrypted socket communications, obfuscation routines at runtime, etc.
-
-* Raw 802.11 a/b/g/n (and more) 2.4+/5.0+ GHz wireless management framework (Written in C)
-
-* In singular development of [BrightStar](https://github.com/PlatinumVoyager/BrightStar).
-  * Adding small scale updates on occasion.
-  * Planning future roadmap for v2.0 feature set.
+* Fleshing out **SPYGAZER** for a public release (6 month window)
+* Provisioning a plan to gain experience with soldering, reverse engineering firmware, hardware hacking, etc.
  
 * Learning **Software Reverse Engineering** with the [Ghidra](https://ghidra-sre.org/) SRE framework.
   * Interested in building modular plugins with Python [(]()[Jython](https://www.jython.org/)[)]().
