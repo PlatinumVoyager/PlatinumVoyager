@@ -1,12 +1,12 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=PlatinumVoyager&animation=twinkling"/>
 </div>
-
+<!--
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=PlatinumVoyager&label=PROFILE+VIEWS&style=flat&abbreviated=true" alt="hello"/>
     <p></p>
 </div>
-
+-->
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="70px" width="70px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="80px" width="70px"/>
