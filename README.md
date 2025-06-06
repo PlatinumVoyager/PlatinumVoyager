@@ -2,6 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=PlatinumVoyager&animation=twinkling"/>
 </div>
 <!--
+hello there :)
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=PlatinumVoyager&label=PROFILE+VIEWS&style=flat&abbreviated=true" alt="hello"/>
     <p></p>
