@@ -23,7 +23,7 @@ hello there :)
  
 # Welcome visitor
 
-This Github account officially represents the capabilities possessed as an individual pursuing more sophisticated methods of obtaining advanced technical literacy in the field of Cybersecurity and Offensive Cyberspace Operations.
+This Github account officially represents the capabilities possessed as an individual pursuing more sophisticated methods of obtaining advanced technical literacy in the field of Cybersecurity and Offensive Cyberspace Operations (OCO) and Defensive Cyberspace Operations (DCO).
 
 <br>
 
