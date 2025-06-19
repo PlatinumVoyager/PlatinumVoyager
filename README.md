@@ -31,6 +31,14 @@ This Github account officially represents the capabilities possessed as an indiv
 
 <br>
 
+### Small Update:
+*A peek behind the curtains so to speak..*
+
+* Using the Rust language to create ELF-32/ELF-64 executables with a fully customizable footprint.
+    * *NOTE: Obviously these naming conventions aren't realistic and having to manually set the --base-addr for _start with **rustc** is always fun :)*
+  
+<img src="https://github.com/user-attachments/assets/33c861fb-68ab-44d9-81b5-72bb2c435dd0" height="60%" width="60%"></img>
+
 ## Current Project: [SPYGAZER](https://github.com/PlatinumVoyager/SpyGazer) (2025)
 
 <img src="https://github.com/user-attachments/assets/c1315597-8f45-44cb-b945-91ffe0be6c26" height="80%" width="80%">
