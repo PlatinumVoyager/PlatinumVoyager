@@ -52,7 +52,6 @@ This Github account officially represents the capabilities possessed as an indiv
 <img src="https://github.com/PlatinumVoyager/PlatinumVoyager/assets/116006542/a44f574c-35ae-450c-9708-2fe09e5892da">
 
 <br>
-<hr>
 
 ## Released the BRIGHTSTAR SSDP framework (October 2023)
 
