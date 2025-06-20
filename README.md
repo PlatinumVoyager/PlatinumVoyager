@@ -53,7 +53,6 @@ This Github account officially represents the capabilities possessed as an indiv
 
 <br>
 <hr>
-<br>
 
 ## Released the BRIGHTSTAR SSDP framework (October 2023)
 
