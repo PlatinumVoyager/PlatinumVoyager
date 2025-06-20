@@ -34,7 +34,7 @@ This Github account officially represents the capabilities possessed as an indiv
 ### Small Update:
 *A peek behind the curtains so to speak..*
 
-* Using the Rust language to create ELF-32/ELF-64 executables with a fully customizable footprint.
+* Using the Rust language to create ELF32/ELF64 executables with a fully customizable footprint.
     * *NOTE: Obviously these naming conventions aren't realistic and having to manually set the --base-addr for _start with **rustc** is always fun :)*
   
 <img src="https://github.com/user-attachments/assets/33c861fb-68ab-44d9-81b5-72bb2c435dd0" height="60%" width="60%"></img>
