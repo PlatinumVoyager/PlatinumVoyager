@@ -27,7 +27,7 @@ This Github account officially represents the capabilities possessed as an indiv
 
 <br>
 
-<p align="center">~ There is no technical barrier too high, no domain which cannot be mastered.</p>
+<p align="center">~ There is no technical barrier too high, no domain which cannot be conquered.</p>
 
 <br>
 
