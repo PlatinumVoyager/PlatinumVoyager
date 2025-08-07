@@ -56,6 +56,7 @@ This Github account officially represents the capabilities possessed as an indiv
 
 ## Currently
 
+* *Dusting off the keyboard*.
 * Fleshing out **SPYGAZER** for a public release (6 month window)
 * Provisioning a plan to gain experience with soldering, reverse engineering firmware, hardware hacking, etc.
  
